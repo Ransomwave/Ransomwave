@@ -8,29 +8,18 @@
 Hi!
 My name is Ransomwave, and I am a developer that specializes on LuaU and WebDev.
 
-<ul style="list-style: none;">
-    <li>📂 About me</li>
-    <li>├── <b>What am I learning?</b></li>
-    <li>│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── Formal IT Degree at school.</li>
-    <li>│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── Improving on my HTML & CSS skills.</li>
-    <li>├── <b>What have I accomplished?</b></li>
-    <li>│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── 35,000,000+ game visits on my indie game.</li>
-    <li>│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [https://www.roblox.com/games/8197423034/get-a-drink-at-3-am-](See the game for yourself!)</li>
-    <li>└── <b>Future goals?</b></li>
-    <li>│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── Become more skilled as a game developer.</li>
-    <li>│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── Create a fully-fledged website using a framework like Astro.</li>
-</ul>
-<!--
-**Ransomwave/Ransomwave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📂 About me
+### What am I learning?
+Formal IT Degree at school.
+Improving on my HTML & CSS skills.
+### What have I accomplished?
+35,000,000+ game visits on my indie game. (https://www.roblox.com/games/8197423034/get-a-drink-at-3-am-)[See the game for yourself!]
+### Future goals?
+Become more skilled as a game developer
+Create a fully-fledged website using a framework like Astro.
 
-Here are some ideas to get you started:
+<h3 align="center">What I know:</h3>
+<img src="https://skillicons.dev/icons?i=robloxstudio,lua,html,css,discordbots,photoshop&theme=dark&perline=15" alt="Skill Icons" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">What I'm looking to learn / improve on:</h3>
+<img src="https://skillicons.dev/icons?i=python,godot,linux,javascript,astro,blender&theme=dark&perline=15" alt="Skill Icons" />
