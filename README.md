@@ -13,7 +13,7 @@ My name is Ransomwave, and I am a developer that specializes on LuaU and WebDev.
 Formal IT Degree at school.
 Improving on my HTML & CSS skills.
 ### What have I accomplished?
-35,000,000+ game visits on my indie game. (https://www.roblox.com/games/8197423034/get-a-drink-at-3-am-)[See the game for yourself!]
+35,000,000+ game visits on my indie game. [See the game for yourself!](https://www.roblox.com/games/8197423034/get-a-drink-at-3-am-)
 ### Future goals?
 Become more skilled as a game developer
 Create a fully-fledged website using a framework like Astro.
