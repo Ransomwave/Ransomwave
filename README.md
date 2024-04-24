@@ -19,7 +19,7 @@ Become more skilled as a game developer
 Create a fully-fledged website using a framework like Astro.
 
 <h3 align="center">What I know:</h3>
-<img src="https://skillicons.dev/icons?i=robloxstudio,lua,html,css,discordbots,photoshop&theme=dark&perline=15" alt="Skill Icons" />
+<img align="center" src="https://skillicons.dev/icons?i=robloxstudio,lua,html,css,discordbots,photoshop&theme=dark&perline=15" alt="Skill Icons" />
 
 <h3 align="center">What I'm looking to learn / improve on:</h3>
-<img src="https://skillicons.dev/icons?i=python,godot,linux,javascript,astro,blender&theme=dark&perline=15" alt="Skill Icons" />
+<img align="center" src="https://skillicons.dev/icons?i=python,godot,linux,javascript,astro,blender&theme=dark&perline=15" alt="Skill Icons" />
