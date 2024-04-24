@@ -3,7 +3,7 @@
   / _ \/ _ | / |/ / __/ __ \/  |/  / | /| / / _ | | / / __/
  / , _/ __ |/    /\ \/ /_/ / /|_/ /| |/ |/ / __ | |/ / _/  
 /_/|_/_/ |_/_/|_/___/\____/_/  /_/ |__/|__/_/ |_|___/___/  
-<pre/>
+</pre>
 
 Hi!
 My name is Ransomwave, and I am a developer that specializes on LuaU and WebDev.
