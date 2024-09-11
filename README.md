@@ -6,20 +6,19 @@
 </pre>
 
 Hi!
-My name is Ransomwave, and I am a developer that specializes on LuaU and WebDev.
+My name is Ransomwave,
+I'm mostly a game developer with experience on Lua. Fairly competent in webdev. A bit of Python knowledge. Over 40M+ game visits.
 
 # 📂 About me
 ### What am I learning?
-- Formal IT Degree at school.
-- Improving on my HTML & CSS skills.
+- IT Degree at school.
+- Webdev skills
 ### What have I accomplished?
-- 35,000,000+ game visits on my indie game!
+- 40,000,000+ game visits on my indie game project.
+- Created a full [personal website](https://ransomwave.games/) using the Astro framework.
+- [Created a full API for incoming Livestream donations from the Roblox platform](https://github.com/Ransomwave/Roblox-Stream-Donations).
+- Want to learn more? Check a full list of my projects: https://ransomwave.games/projects
 ### Future goals?
-- Become more skilled as a game developer
-- Create a fully-fledged website using a framework like Astro.
-
-<h3 align="center">What I know:</h3>
-<p align="center"><img src="https://skillicons.dev/icons?i=robloxstudio,lua,html,css,discordbots,photoshop&theme=dark&perline=15" alt="Skill Icons" /></p>
-
-<h3 align="center">What I'm looking to learn / improve on:</h3>
-<p align="center"><img align="center" src="https://skillicons.dev/icons?i=python,godot,linux,javascript,astro,blender&theme=dark&perline=15" alt="Skill Icons" /></p>
+- Become a better game designer, writer & programmer.
+- Make a dynamic website using another JS Framework.
+- Make more useful open-source projects on GitHub.
