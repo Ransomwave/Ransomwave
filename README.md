@@ -7,14 +7,14 @@
 
 Hi!
 My name is Ransomwave,
-I'm mostly a game developer with experience on Lua. Fairly competent in webdev. A bit of Python knowledge. Over 40M+ game visits.
+I'm mostly a game developer with experience on Lua. Decent at Python. Learning webdev.
 
 # 📂 About me
 ### What am I learning?
 - IT Degree at school.
 - Webdev skills
 ### What have I accomplished?
-- 40,000,000+ game visits on my indie game project.
+- 50,000,000+ game visits on my indie game project.
 - Created a full [personal website](https://ransomwave.games/) using the Astro framework.
 - [Created a full API for incoming Livestream donations from the Roblox platform](https://github.com/Ransomwave/Roblox-Stream-Donations).
 - Want to learn more? Check a full list of my projects: https://ransomwave.games/projects
