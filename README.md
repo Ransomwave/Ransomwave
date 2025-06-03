@@ -5,10 +5,6 @@
 /_/|_/_/ |_/_/|_/___/\____/_/  /_/ |__/|__/_/ |_|___/___/  
 </pre>
 
-Hi!
-My name is Ransomwave,
-I'm mostly a game developer with experience on Lua. Decent at Python. Learning webdev.
-
 # 📂 About me
 ### What have I accomplished?
 - 50,000,000+ game visits on my indie game project.
