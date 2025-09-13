@@ -7,11 +7,11 @@
 
 # 📂 About me
 ### What have I accomplished?
-- 50,000,000+ game visits on my indie game project.
-- Created a full [personal website](https://ransomwave.games/) using the Astro framework.
+- 70,000,000+ game visits on my indie game project.
+- Created a full [personal website](https://ransomwave.games/) using the Next.js and React (migrated from using Astro).
 - [Created a full API for incoming Livestream donations from the Roblox platform](https://github.com/Ransomwave/Roblox-Stream-Donations).
 - Want to learn more? Check a full list of my projects: https://ransomwave.games/projects
 ### Future goals?
 - Become a better game designer, writer & programmer.
-- Make a dynamic website using another JS Framework.
+- Improve my web development skills (React, Next.js) & try out other frameworks.
 - Make more useful open-source projects on GitHub.
