@@ -12,6 +12,7 @@
 - [Created a full API for incoming Livestream donations from the Roblox platform](https://github.com/Ransomwave/Roblox-Stream-Donations).
 - Want to learn more? Check a full list of my projects: https://ransomwave.games/projects
 ### Future goals?
+- Learn more game engines and programming languages: diversify my knowledge.
 - Become a better game designer, writer & programmer.
 - Improve my web development skills (React, Next.js) & try out other frameworks.
 - Make more useful open-source projects on GitHub.
