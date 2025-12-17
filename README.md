@@ -5,14 +5,7 @@
 /_/|_/_/ |_/_/|_/___/\____/_/  /_/ |__/|__/_/ |_|___/___/  
 </pre>
 
-# 📂 About me
-### What have I accomplished?
-- 70,000,000+ game visits on my indie game project.
-- Created a full [personal website](https://ransomwave.games/) using the Next.js and React (migrated from using Astro).
-- [Created a full API for incoming Livestream donations from the Roblox platform](https://github.com/Ransomwave/Roblox-Stream-Donations).
-- Want to learn more? Check a full list of my projects: https://ransomwave.games/projects
-### Future goals?
-- Learn more game engines and programming languages: diversify my knowledge.
-- Become a better game designer, writer & programmer.
-- Improve my web development skills (React, Next.js) & try out other frameworks.
-- Make more useful open-source projects on GitHub.
+I'm Ransomwave, a self-taught game dev that ocasionally dives into other things too.
+
+Rather than making a huge README about what I've done, I'll let my stuff speak for itself.
+Check out https://ransomwave.games/ & some of my repos below!
