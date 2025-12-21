@@ -5,8 +5,13 @@
 /_/|_/_/ |_/_/|_/___/\____/_/  /_/ |__/|__/_/ |_|___/___/  
 </pre>
 
-I'm Ransomwave, a self-taught game dev that ocasionally dives into other things too.
+I'm Ransomwave, a self-taught game dev that likes to dive into other aspects of Software Development too.
 
-Rather than making a huge README about what I've done, I'll let my stuff speak for itself.
+<details>
+  <summary>Github Stats</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ransomwave&theme=dark&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ransomwave&layout=compact&theme=dark&count_private=true&hide_border=true)</a>
+</details>
 
 Check out https://ransomwave.games/ & some of my repos below!
