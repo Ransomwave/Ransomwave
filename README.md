@@ -10,10 +10,9 @@ I'm Ransomwave, a self-taught game dev that likes to dive into other aspects of 
 <details>
   <summary>Github Stats</summary>
   
-  <a href="#">![Github stats](https://github-profile-summary-cards-dimkagithubvercel.vercel.app/api/cards/profile-details?username=ransomwave&theme=dark&count_private=true&hide_border=true&line_height=20)</a>
-  <!--
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ransomwave&layout=compact&theme=dark&count_private=true&hide_border=true)</a>
-  -->
+  ![Github stats](http://github-profile-summary-cards-dimkagithubvercel.vercel.app/api/cards/profile-details?username=Ransomwave&theme=github_dark&count_private=true&hide_border=true&line_height=20)
+  ![Top Languages](http://github-profile-summary-cards-dimkagithubvercel.vercel.app/api/cards/most-commit-language?username=Ransomwave&theme=github_dark)
+
 </details>
 
 Check out https://ransomwave.games/ & some of my repos below!
