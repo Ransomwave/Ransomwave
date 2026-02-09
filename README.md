@@ -5,7 +5,7 @@
 /_/|_/_/ |_/_/|_/___/\____/_/  /_/ |__/|__/_/ |_|___/___/  
 </pre>
 
-I'm Ransomwave, a self-taught game dev that likes to dive into other aspects of Software Development too.
+I'm Ransomwave, a self-taught game dev that enjoys diving into Software Development too.
 
 <details>
   <summary>Github Stats</summary>
