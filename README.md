@@ -11,7 +11,7 @@ I'm Ransomwave, a self-taught game dev that enjoys diving into Software Developm
   <summary>Github Stats</summary>
 
    ![Github stats](http://github-profile-summary-cards-dimkagithubvercel.vercel.app/api/cards/profile-details?username=Ransomwave&theme=github_dark&count_private=true&hide_border=true&line_height=20)
-   ![Top languages](https://github-profile-summary-cards-dimkagithubvercel.vercel.app/api/cards/repos-per-language?username=Ransomwave&theme=github_dark&count_private=true)
+   ![Top languages](https://github-profile-summary-cards-dimkagithubvercel.vercel.app/api/cards/most-commit-language?username=Ransomwave&theme=github_dark&count_private=true)
    
 </details>
 
