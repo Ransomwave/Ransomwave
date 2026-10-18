@@ -5,7 +5,7 @@
 /_/|_/_/ |_/_/|_/___/\____/_/  /_/ |__/|__/_/ |_|___/___/  
 </pre>
 
-I'm Ransomwave, a self-taught game dev that enjoys diving into Software Development too.
+I'm Ransomwave, a self-taught game developer & aspiring software engineer. Most of my time goes into games programming, although I enjoy occasionally working on various other types of software and tooling!
 
 ![Top languages](https://yarb00-github-readme-stats.vercel.app/api/top-langs?username=Ransomwave&langs_count=6&layout=compact&hide_border=true&theme=github_dark&hide=mdx,html,css)
 
