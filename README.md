@@ -7,12 +7,6 @@
 
 I'm Ransomwave, a self-taught game dev that enjoys diving into Software Development too.
 
-<details>
-  <summary>Github Stats</summary>
-
-   ![Github stats](http://github-profile-summary-cards-dimkagithubvercel.vercel.app/api/cards/profile-details?username=Ransomwave&theme=github_dark&count_private=true&hide_border=true&line_height=20)
-   ![Top languages](https://github-profile-summary-cards-dimkagithubvercel.vercel.app/api/cards/repos-per-language?username=Ransomwave&theme=github_dark)
-   
-</details>
+![Top languages](https://yarb00-github-readme-stats.vercel.app/api/top-langs?username=Ransomwave&langs_count=6&layout=compact&hide_border=true&theme=github_dark&hide=mdx,html,css)
 
 Check out https://ransomwave.games/ & some of my repos below!
